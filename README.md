@@ -108,8 +108,15 @@ To explore these workflow patterns:
 
 3. **Run the examples**:
    ```bash
-   python examples/example_workflow.py
+   python run_workflow.py <example>
    ```
+   Replace `<example>` with one of the following options:
+
+  - `prompt_chaining` – Run the prompt chaining example.
+  - `routing` – Run the routing example.
+  - `parallelization` – Run the parallelization example.
+  - `orchestration` – Run the orchestration example.
+  - `evaluator_optimizer` – Run the evaluator and optimizer example.
 
 For detailed usage instructions, refer to the [Usage](#usage) section.
 
