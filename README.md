@@ -97,8 +97,8 @@ To explore these workflow patterns:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/OmarKhaled0K/Agents_and_workflows.git)
+   cd Agents_and_workflows
    ```
 
 2. **Install dependencies**:
